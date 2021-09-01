@@ -16,5 +16,5 @@
 - 🤖 Coding with R at work                
 - 🐍 Currently learning Python          
 - 🐦 Follow me on Twitter [@gabrielacaesar](https://twitter.com/gabrielacaesar)!              
-- 🖥️ Add on [LinkedIn](https://www.linkedin.com/in/gabrielacaesar/)!             
+- 🖥️ Add me on [LinkedIn](https://www.linkedin.com/in/gabrielacaesar/)!             
 
