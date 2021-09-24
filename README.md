@@ -1,13 +1,3 @@
-### Hey, hey, hey! [pt] 👋
-
-- 🌏 Sou a [Gabriela Caesar](https://www.gabrielacaesar.com/about/)           
-- 🗣️ Jornalista formada pela PUC-Rio           
-- 🎲 Curso o Master em Jornalismo de Dados, Automação e Data Storytelling no Insper         
-- 🤖 Uso a programação em R no meu trabalho           
-- 🐍 Estou aprendendo Python          
-- 🐦 Estou no Twitter! Siga-me em [@gabrielacaesar](https://twitter.com/gabrielacaesar)         
-- 🖥️ Adicione-me no [LinkedIn](https://www.linkedin.com/in/gabrielacaesar/)!             
-
 ### Hey, hey, hey! [en] 👋
 
 - 🌏 My name is [Gabriela Caesar](https://www.gabrielacaesar.com/about/)            
@@ -17,4 +7,3 @@
 - 🐍 Currently learning Python          
 - 🐦 Follow me on Twitter [@gabrielacaesar](https://twitter.com/gabrielacaesar)!              
 - 🖥️ Add me on [LinkedIn](https://www.linkedin.com/in/gabrielacaesar/)!             
-
