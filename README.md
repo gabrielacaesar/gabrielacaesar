@@ -1,4 +1,4 @@
-### Hey, hey, hey! [en] 👋
+### Hey, hey, hey! 👋
 
 - 🌏 My name is [Gabriela Caesar](https://www.gabrielacaesar.com/about/)            
 - 🗣️ Journalist graduated at PUC-Rio           
