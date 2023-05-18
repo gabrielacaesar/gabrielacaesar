@@ -1,8 +1,8 @@
-### Hey, hey, hey! 👋
+### Hey, hey, hey! 👋       
 
-I'm Gabriela Caesar 👩‍💻
+I'm Gabriela Caesar 👩‍💻     
 
-💻 Data Analyst, former Data Journalist
-🏢 Currently working for Vaco on behalf of Google
-🌎 Working remotely from Brazil
-👩‍💻 More about me: [LinkedIn](https://www.linkedin.com/in/gabrielacaesar/) / [Website](https://gabrielacaesar.github.io/) / [Twitter](https://twitter.com/gabrielacaesar)
+💻 Data Analyst, former Data Journalist     
+🏢 Currently working for Vaco on behalf of Google       
+🌎 Working remotely from Brazil       
+👩‍💻 More about me: [LinkedIn](https://www.linkedin.com/in/gabrielacaesar/) / [Website](https://gabrielacaesar.github.io/) / [Twitter](https://twitter.com/gabrielacaesar)       
